@@ -41,6 +41,7 @@ public class LoginPageTest {
 
 		if (expPageTitle.equals(actPageTitle)) {
 			System.out.println("Page validation PASSED: [EXP] " + expPageTitle + " [ACT] " + actPageTitle);
+			System.out.println("SMOKE TEST..............");
 		} else {
 			System.out.println("Page validation FAILED: [EXP] " + expPageTitle + " [ACT] " + actPageTitle);
 
