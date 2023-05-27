@@ -49,3 +49,4 @@ public class LoginPageTest {
 		Thread.sleep(3000);
 		driver.quit();
 	}}
+
